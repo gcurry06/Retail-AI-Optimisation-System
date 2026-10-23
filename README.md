@@ -60,3 +60,11 @@ A machine learning system may be able to identify products at higher risk of was
 
 By monitoring declining sales trends, unusual purchasing behaviour and historical waste patterns, the system could highlight products requiring further investigation or adjustments to ordering decisions.
 
+### Can machine learning improve stock ordering decisions compared with simple historical averages?
+
+Traditional stock ordering methods often rely on historical averages, such as previous sales volumes, to estimate future demand. While this approach can work for products with consistent purchasing patterns, it may fail to capture changing trends, seasonal effects and shifts in consumer behaviour.
+
+This project investigates whether machine learning models can improve demand predictions by identifying complex patterns within historical sales data. Improved predictions could help businesses allocate stock more effectively by increasing availability of high-demand products while reducing investment in products with declining demand.
+
+The performance of machine learning models will be compared against a simple historical average baseline to determine whether the additional complexity provides measurable improvements
+
