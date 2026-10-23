@@ -115,3 +115,12 @@ The success of this project will be evaluated across three areas: machine learni
 
 This project was inspired by the challenges of retail inventory management. Working in a retail environment highlighted the importance of balancing product availability with reducing waste. This project explores how data-driven forecasting and machine learning can support better stock ordering decisions.
 
+## Dataset
+
+Dataset selection is currently in progress. The chosen dataset will aim to include retail transaction data containing information such as product details, sales quantities, prices, dates and customer/store information where available.
+
+The dataset will be evaluated based on:
+- Data quality
+- Number of records
+- Time period covered
+- Availability of useful forecasting features
