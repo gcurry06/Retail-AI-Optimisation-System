@@ -124,3 +124,13 @@ The dataset will be evaluated based on:
 - Number of records
 - Time period covered
 - Availability of useful forecasting features
+
+## Model Evaluation
+
+Models will be evaluated using regression metrics suitable for demand forecasting, including:
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Percentage Error (MAPE)
+
+Machine learning models will be compared against a simple historical average baseline to determine whether they provide improved forecasting performance.
