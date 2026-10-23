@@ -111,3 +111,7 @@ The success of this project will be evaluated across three areas: machine learni
 - Users should be able to interpret model outputs without requiring technical machine learning knowledge.
 - The system should provide clear error messages and feedback mechanisms to improve reliability and usability.
 
+## Motivation
+
+This project was inspired by the challenges of retail inventory management. Working in a retail environment highlighted the importance of balancing product availability with reducing waste. This project explores how data-driven forecasting and machine learning can support better stock ordering decisions.
+
