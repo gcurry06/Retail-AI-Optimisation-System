@@ -87,3 +87,27 @@ Phase 4:
 - Build recommendation dashboard
 - Document findings
 
+## Success Criteria
+
+The success of this project will be evaluated across three areas: machine learning performance, data quality, and user experience.
+
+### Machine Learning Performance
+
+- The demand forecasting model should provide accurate predictions of future product demand.
+- Machine learning models should be compared against a simple historical average baseline to determine whether predictive modelling provides measurable improvements.
+- Model performance will be evaluated using appropriate regression metrics, including Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+- The system should demonstrate whether improved predictions can support better stock ordering decisions.
+
+### Data Quality and Organisation
+
+- Raw retail data should be cleaned, structured and transformed into a reliable format suitable for analysis and machine learning.
+- The ETL pipeline should successfully extract, transform and load data into an organised database structure.
+- Data processing should handle common data quality issues, including missing values, duplicate records and inconsistent formats.
+- The final dataset should be well documented and easy to understand for future analysis.
+
+### User Experience
+
+- The final application/dashboard should provide an understandable interface for viewing demand predictions and business insights.
+- Users should be able to interpret model outputs without requiring technical machine learning knowledge.
+- The system should provide clear error messages and feedback mechanisms to improve reliability and usability.
+
