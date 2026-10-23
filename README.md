@@ -68,3 +68,22 @@ This project investigates whether machine learning models can improve demand pre
 
 The performance of machine learning models will be compared against a simple historical average baseline to determine whether the additional complexity provides measurable improvements
 
+## Project Roadmap
+
+Phase 1:
+- Research problem
+- Obtain dataset
+- Design database
+
+Phase 2:
+- Build ETL pipeline
+- Perform exploratory analysis
+
+Phase 3:
+- Develop forecasting models
+- Compare against baseline
+
+Phase 4:
+- Build recommendation dashboard
+- Document findings
+
